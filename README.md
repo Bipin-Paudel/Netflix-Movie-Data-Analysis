@@ -1,11 +1,37 @@
-**Netflix Movie Data Analysis **
+📊 Netflix Movie Data Analysis
+This project analyzes a dataset of over 9,000 movies available on Netflix, using data science techniques to extract insights that can support informed business decisions.
 
-Netflix is known for its work in data science, AI, and ML, particularly for building strong recommendation models and algorithms that understand customer behavior and patterns.
-Suppose you are working in a data-driven job role, and you have a dataset of more than 9,000 movies. You need to solve the following questions to help the company make informed
-business decisions accordingly.
+🔍 Objectives
+Identify the most frequent genre of movies released on Netflix.
 
-1. What is the most frequent genre of movies released on Netflix?
-2. What genres has highest votes?
-3. What movie got the highest popularity? What's its genre?
-4. What movie got the lowest popularity? What's its genre?
-5. Which year has the most filmed movies?
+Find the genre with the highest number of votes.
+
+Discover the movie with the highest popularity and its genre.
+
+Discover the movie with the lowest popularity and its genre.
+
+Determine the year with the most films released.
+
+📂 Dataset
+The dataset contains detailed information about Netflix movies, including:
+
+Title
+
+Genre
+
+Release year
+
+Popularity score
+
+Vote counts
+
+(Note: Please see the dataset file in this repository for full details.)
+
+🛠️ Tools & Libraries Used
+Python (Data Analysis Language)
+
+Pandas – for data manipulation and cleaning
+
+Matplotlib – for visualizing insights through charts
+
+Seaborn – for enhanced and aesthetic visualizations
